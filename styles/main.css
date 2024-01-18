@@ -3,6 +3,10 @@
 
 }
 
-.rep_BasicInfo {
+.BasicInfo__name {
     font-size: 20px;
+}
+
+.BasicInfo__district {
+    font-size: 20px
 }
